@@ -1,4 +1,4 @@
-name: Java CoI with Maven
+name: Java CopI with Maven
 
 on:
   push:
