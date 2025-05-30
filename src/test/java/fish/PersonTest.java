@@ -125,5 +125,6 @@ public class PersonTest {
         registry.addDemeritPoints("56s_d%&fAB", "01-01-2023", 6);
         String result = registry.addDemeritPoints("56s_d%&fAB", "01-01-2024", 7); // exceeds valid points
         assertEquals("Failed", result);
+        //test
     }
 }
